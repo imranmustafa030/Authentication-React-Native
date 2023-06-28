@@ -1,33 +1,36 @@
 # Authentication Mobile Application
 
-This repository contains an Authentication mobile application developed using React Native, Node.js, and Express.js. Safeguard user data by implementing user authentication, allowing users to create accounts or login securely. Prevent duplicate account creation to ensure a seamless user experience.
+This repository contains an Authentication mobile application developed using React Native. Securely authenticate users on their mobile devices using fingerprint authentication, passcode authentication, and more.
 
 ## Features
 
-- **User Registration:** Allow new users to create accounts securely, providing essential information.
-- **User Login:** Enable existing users to login using their credentials, ensuring secure access to the application.
-- **Duplicate Account Prevention:** Implement logic to prevent the creation of multiple accounts for the same user.
-- **Secure Authentication:** Safeguard user data by utilizing encryption and industry-standard authentication techniques.
-- **Error Handling:** Provide comprehensive error handling to ensure smooth user experience and proper feedback.
+- **Secure Authentication:** Utilize fingerprint authentication, passcode authentication, or other secure methods to authenticate users on their mobile devices.
+- **User-Friendly Interface:** The application provides a seamless and intuitive user experience, making it easy for users to authenticate themselves.
+- **Flexible Authentication Methods:** Implement various authentication methods based on the device's capabilities and user preferences.
+- **Secure Storage:** Safely store and manage user authentication data, ensuring the privacy and security of user information.
+- **Cross-Platform Compatibility:** The application is designed to work on both iOS and Android devices, providing a consistent authentication experience.
 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/imranmustafa030/Authentication-React-Native.git`
-2. Navigate to the project folder.
-3. Install dependencies: `npm install`.
-4. Start the application: `npm start` or `expo start`.
+2. Install the dependencies: `npm install` or `yarn install`
+3. Run the application on a connected device or emulator: `npm start` or `yarn start`
 
 ## Usage
 
-1. Launch the application on a mobile device or emulator.
-2. Register a new account by providing the necessary information.
-3. Login using your account credentials.
-4. Explore the application's features and functionality securely.
+1. Launch the application on your mobile device.
+2. Follow the prompts to set up the desired authentication method(s).
+3. Authenticate yourself using the selected method(s) (e.g., fingerprint, passcode).
+4. Access the application's features and functionalities upon successful authentication.
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
+
 ## Credits
 
-Thank you for checking out this repository. The Authentication mobile application was developed using React Native, Node.js, and Express.js, providing a secure and user-friendly authentication process.
+Thank you for checking out this repository. The Authentication Mobile Application was developed using React Native, providing a secure and user-friendly solution for authenticating users on their mobile devices.
