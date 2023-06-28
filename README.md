@@ -27,10 +27,6 @@ This repository contains an Authentication mobile application developed using Re
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
-
 ## Credits
 
 Thank you for checking out this repository. The Authentication Mobile Application was developed using React Native, providing a secure and user-friendly solution for authenticating users on their mobile devices.
